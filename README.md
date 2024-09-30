@@ -5,8 +5,6 @@
 ## Tutor: Ignacio Nicolás Basilio Buracco 
 
 
-[![N|Solid](https://es.react.dev/)]
-
 ## Ecommerce "EMINEM SHOP"
 
 Este es mi proyecto final del curso de React JS de CODERHOUSE. 
