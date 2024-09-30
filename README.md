@@ -12,7 +12,8 @@
 Este es mi proyecto final del curso de React JS de CODERHOUSE. 
 Opté por realizar una App de un Ecommerce de ropa inspirada en el cantante Eminem.
 
-![](png)
+![Ecommerce eminem REACT](https://github.com/user-attachments/assets/cbb41a96-f29a-423f-9a5a-614ebc89a8d8)
+
 
 ## Realización
 
@@ -27,6 +28,7 @@ Opté por realizar una App de un Ecommerce de ropa inspirada en el cantante Emin
 ## Tecnologías empleadas
 
 - React JS
+
 - Vite
 - React Router Dom
 - Bootstrap 5
@@ -45,4 +47,7 @@ cd "Carpeta del proyecto"
 
 # Video del proyecto
 
-![](gif)# Final-ReactJs-60025
+![EMINEM SHOP - Google Chrome 2024](https://github.com/user-attachments/assets/1f666b9a-b9fb-43a7-af06-be6ec0545881)
+
+
+# Final-ReactJs-60025
