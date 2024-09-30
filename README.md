@@ -1,8 +1,8 @@
 # Proyecto Final - Curso de React Js
 
-# Autor: Diego Cristian Vidal 
-# Profesor: Maximiliano Torreblanca - 
-# Tutor: Ignacio Nicolás Basilio Buracco 
+## Autor: Diego Cristian Vidal 
+## Profesor: Maximiliano Torreblanca - 
+## Tutor: Ignacio Nicolás Basilio Buracco 
 
 
 [![N|Solid](https://es.react.dev/)]
