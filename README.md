@@ -43,9 +43,4 @@ cd "Carpeta del proyecto"
 - npm run dev
 ```
 
-# Video del proyecto
-
-![EMINEM SHOP - Google Chrome 2024](https://github.com/user-attachments/assets/1f666b9a-b9fb-43a7-af06-be6ec0545881)
-
-
 # Final-ReactJs-60025
