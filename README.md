@@ -43,6 +43,8 @@ cd "Carpeta del proyecto"
 - npm run dev
 ```
 
+## VIDEO
+
 ![EMINEMSHOP-GoogleChrome2024-10-0520-40-07-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/0cbb4515-03f1-4543-bdc4-6275af97ba0f)
 
 
